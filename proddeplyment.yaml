@@ -1,0 +1,6 @@
+apiversion
+ap: v1
+kind :deployment
+metadata :
+  java: name
+  test
